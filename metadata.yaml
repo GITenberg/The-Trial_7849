@@ -1,10 +1,13 @@
 _repo: The-Trial_7849
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wyllie, David
     gutenberg_agent_id: '1736'
     url: http://www.gutenberg.org/2009/agents/1736
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kafka, Franz
@@ -28,6 +31,8 @@ description: "The Trial (original German title: Der Process, later Der Prozess, 
   \ language translation, by Willa and Edwin Muir, was published in 1937. In 1999,\
   \ the book was listed in Le Monde's 100 Books of the Century and as No. 2 of the\
   \ Best German Novels of the Twentieth Century.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7849#The-Trial
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Horror
